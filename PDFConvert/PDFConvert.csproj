@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>PDF Converter Library for .NET</Title>
+        <Description>A lightweight .NET library for converting documents from PDF format to html raster</Description>
+        <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>pdf convert export document dotnet</PackageTags>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="PdfiumViewer.Native.x86_64.v8-xfa" Version="2018.4.8.256" />
+      <PackageReference Include="SkiaSharp" Version="3.119.0" />
+      <PackageReference Include="WebMarkupMin.Core" Version="2.19.0" />
+    </ItemGroup>
+
+</Project>
