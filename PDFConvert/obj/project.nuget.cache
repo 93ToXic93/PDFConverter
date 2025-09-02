@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z1NgVKGd8PQ=",
+  "dgSpecHash": "HCgTjbCg6Nc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Адриан\\Desktop\\Nuget\\PDFConvert\\PDFConvert.csproj",
+  "projectFilePath": "C:\\Users\\Адриан\\Desktop\\PDFConverter\\PDFConvert\\PDFConvert.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Адриан\\.nuget\\packages\\advancedstringbuilder\\0.1.1\\advancedstringbuilder.0.1.1.nupkg.sha512",
     "C:\\Users\\Адриан\\.nuget\\packages\\pdfiumviewer.native.x86_64.v8-xfa\\2018.4.8.256\\pdfiumviewer.native.x86_64.v8-xfa.2018.4.8.256.nupkg.sha512",

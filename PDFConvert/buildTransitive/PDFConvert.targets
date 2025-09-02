@@ -1,0 +1,20 @@
+<Project>
+    <ItemGroup>
+        <PDFConvertNative Include="$(MSBuildThisFileDirectory)..\runtimes\**\native\*.*" />
+    </ItemGroup>
+
+    <Target Name="PDFConvert_CopyNativeToOutput" AfterTargets="Build">
+        <Copy SourceFiles="@(PDFConvertNative)"
+              DestinationFolder="$(OutDir)"
+              SkipUnchangedFiles="true" />
+    </Target>
+
+    <Target Name="PDFConvert_CopyNativeOnPublish" AfterTargets="ComputeFilesToPublish">
+        <ItemGroup>
+            <ResolvedFileToPublish Include="@(PDFConvertNative)">
+                <RelativePath>%(Filename)%(Extension)</RelativePath>
+                <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+            </ResolvedFileToPublish>
+        </ItemGroup>
+    </Target>
+</Project>

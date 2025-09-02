@@ -265,13 +265,13 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Адриан\\Desktop\\Nuget\\PDFConvert\\PDFConvert.csproj",
-      "projectName": "PDFConverter.Engine",
-      "projectPath": "C:\\Users\\Адриан\\Desktop\\Nuget\\PDFConvert\\PDFConvert.csproj",
+      "projectUniqueName": "C:\\Users\\Адриан\\Desktop\\PDFConverter\\PDFConvert\\PDFConvert.csproj",
+      "projectName": "PDFConvert",
+      "projectPath": "C:\\Users\\Адриан\\Desktop\\PDFConverter\\PDFConvert\\PDFConvert.csproj",
       "packagesPath": "C:\\Users\\Адриан\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Адриан\\Desktop\\Nuget\\PDFConvert\\obj\\",
+      "outputPath": "C:\\Users\\Адриан\\Desktop\\PDFConverter\\PDFConvert\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
