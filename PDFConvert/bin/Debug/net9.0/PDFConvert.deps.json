@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "PDFConvert/1.0.0": {
+      "PDFConvert/1.0.1": {
         "dependencies": {
           "PdfiumViewer.Native.x86_64.v8-xfa": "2018.4.8.256",
           "SkiaSharp": "3.119.0",
@@ -79,7 +79,7 @@
     }
   },
   "libraries": {
-    "PDFConvert/1.0.0": {
+    "PDFConvert/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

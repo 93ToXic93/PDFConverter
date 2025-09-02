@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute(("A lightweight .NET library for converting documents from PDF format to html raste" +
     "r"))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+dc768b26cebfc699ecf1598f7054baedda40569e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+91ea418b793a8be6b28baed632328b4c9c7bf17a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PDFConvert")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PDFConvert")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]

@@ -10,3 +10,16 @@ C:\Users\Адриан\Desktop\Nuget\PDFConvert\PDFConvert\obj\Debug\net9.0\PDFCo
 C:\Users\Адриан\Desktop\Nuget\PDFConvert\PDFConvert\obj\Debug\net9.0\refint\PDFConvert.dll
 C:\Users\Адриан\Desktop\Nuget\PDFConvert\PDFConvert\obj\Debug\net9.0\PDFConvert.pdb
 C:\Users\Адриан\Desktop\Nuget\PDFConvert\PDFConvert\obj\Debug\net9.0\ref\PDFConvert.dll
+C:\Users\Адриан\Desktop\PDFConverter\PDFConvert\bin\Debug\net9.0\PDFConvert.deps.json
+C:\Users\Адриан\Desktop\PDFConverter\PDFConvert\bin\Debug\net9.0\PDFConvert.dll
+C:\Users\Адриан\Desktop\PDFConverter\PDFConvert\bin\Debug\net9.0\PDFConvert.pdb
+C:\Users\Адриан\Desktop\PDFConverter\PDFConvert\obj\Debug\net9.0\PDFConvert.csproj.AssemblyReference.cache
+C:\Users\Адриан\Desktop\PDFConverter\PDFConvert\obj\Debug\net9.0\PDFConvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Адриан\Desktop\PDFConverter\PDFConvert\obj\Debug\net9.0\PDFConvert.AssemblyInfoInputs.cache
+C:\Users\Адриан\Desktop\PDFConverter\PDFConvert\obj\Debug\net9.0\PDFConvert.AssemblyInfo.cs
+C:\Users\Адриан\Desktop\PDFConverter\PDFConvert\obj\Debug\net9.0\PDFConvert.csproj.CoreCompileInputs.cache
+C:\Users\Адриан\Desktop\PDFConverter\PDFConvert\obj\Debug\net9.0\PDFConvert.sourcelink.json
+C:\Users\Адриан\Desktop\PDFConverter\PDFConvert\obj\Debug\net9.0\PDFConvert.dll
+C:\Users\Адриан\Desktop\PDFConverter\PDFConvert\obj\Debug\net9.0\refint\PDFConvert.dll
+C:\Users\Адриан\Desktop\PDFConverter\PDFConvert\obj\Debug\net9.0\PDFConvert.pdb
+C:\Users\Адриан\Desktop\PDFConverter\PDFConvert\obj\Debug\net9.0\ref\PDFConvert.dll

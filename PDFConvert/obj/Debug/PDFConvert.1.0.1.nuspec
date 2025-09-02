@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PDFConvert</id>
+    <version>1.0.1</version>
+    <title>PDF Converter Library for .NET</title>
+    <authors>PDFConvert</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/93ToXic93/PDFConverter</projectUrl>
+    <description>A lightweight .NET library for converting documents from PDF format to html raster</description>
+    <releaseNotes>Updating the build pattern to add the dll automaticly</releaseNotes>
+    <copyright>Adrian Ivanov</copyright>
+    <tags>pdf convert export document dotnet</tags>
+    <repository type="git" url="https://github.com/93ToXic93/PDFConverter" commit="91ea418b793a8be6b28baed632328b4c9c7bf17a" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="PdfiumViewer.Native.x86_64.v8-xfa" version="2018.4.8.256" exclude="Build,Analyzers" />
+        <dependency id="SkiaSharp" version="3.119.0" exclude="Build,Analyzers" />
+        <dependency id="WebMarkupMin.Core" version="2.19.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Адриан\Desktop\PDFConverter\PDFConvert\bin\Debug\net9.0\PDFConvert.dll" target="lib\net9.0\PDFConvert.dll" />
+    <file src="C:\Users\Адриан\Desktop\PDFConverter\PDFConvert\README.md" target="\README.md" />
+    <file src="C:\Users\Адриан\Desktop\PDFConverter\PDFConvert\buildTransitive\PDFConvert.targets" target="buildTransitive\PDFConvert.targets" />
+    <file src="C:\Users\Адриан\Desktop\PDFConverter\PDFConvert\runtimes\win-x64\native\pdfium.dll" target="runtimes\win-x64\native\pdfium.dll" />
+  </files>
+</package>
