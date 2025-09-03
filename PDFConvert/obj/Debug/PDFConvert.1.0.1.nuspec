@@ -13,7 +13,7 @@
     <releaseNotes>Updating the build pattern to add the dll automaticly</releaseNotes>
     <copyright>Adrian Ivanov</copyright>
     <tags>pdf convert export document dotnet</tags>
-    <repository type="git" url="https://github.com/93ToXic93/PDFConverter" commit="91ea418b793a8be6b28baed632328b4c9c7bf17a" />
+    <repository type="git" url="https://github.com/93ToXic93/PDFConverter" commit="e9263d9c9644551176d104d32d24cb6bcf9103eb" />
     <dependencies>
       <group targetFramework="net9.0">
         <dependency id="PdfiumViewer.Native.x86_64.v8-xfa" version="2018.4.8.256" exclude="Build,Analyzers" />

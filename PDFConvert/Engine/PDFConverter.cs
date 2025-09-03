@@ -219,7 +219,7 @@ public static class PDFConverter
         int quality = 100,
         ImageFormat imageFormat = ImageFormat.webp,
         bool grayscale = false,
-        string? baseName = null) // напр. "docA", ще се ползва за имената на страниците
+        string? baseName = null) 
     {
         if (pdfBytes == null) throw new ArgumentNullException(nameof(pdfBytes));
 

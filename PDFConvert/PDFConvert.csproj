@@ -13,9 +13,9 @@
         <Copyright>Adrian Ivanov</Copyright>
         <PackageProjectUrl>https://github.com/93ToXic93/PDFConverter </PackageProjectUrl>
         <RepositoryUrl>https://github.com/93ToXic93/PDFConverter</RepositoryUrl>
-        <PackageReleaseNotes>Updating the build pattern to add the dll automaticly</PackageReleaseNotes>
+        <PackageReleaseNotes>Added New Method for Rendering the images only </PackageReleaseNotes>
         <PackageReadmeFile>README.md</PackageReadmeFile>
-        <Version>1.0.1</Version>
+        <Version>1.0.2</Version>
     </PropertyGroup>
 
     <ItemGroup>
