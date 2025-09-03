@@ -172,15 +172,6 @@ catch (InvalidOperationException ex)
 
 ---
 
-## 📋 Requirements
-
-- **.NET 6.0+** (uses modern C# features and records)
-- **PDFium native libraries** (platform-specific)
-- **SkiaSharp** for cross-platform image processing
-- **WebMarkupMin** for HTML optimization
-
----
-
 ## 🎯 Use Cases
 
 - **Document Viewers** - Convert PDFs for web display
